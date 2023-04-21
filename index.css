@@ -1,0 +1,119 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.left-icons-container {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.vl-line {
+  border-left: 2px solid #2a2a63;
+}
+
+.years-container {
+  display: flex;
+}
+
+.hr-line {
+  background-color: #2a2a63;
+  width: 100%;
+  height: 2px;
+}
+
+.interests-icons {
+  border-radius: 50px;
+  border-style: none;
+  background-color: #00004d;
+  color: #fbfaf2;
+  width: 35px;
+  height: 35px;
+  text-align: center;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+
+.ul-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.dots {
+  height: 6px;
+  width: 6px;
+  border-radius: 45px;
+  background-color: #00004d;
+  margin: 3px;
+}
+
+.top-card-container {
+  margin-bottom: 0px;
+  flex-wrap: nowrap;
+}
+
+.top-description {
+  font-size: 8px;
+  font-family: "Roboto";
+  margin-left: 0px;
+}
+
+.top-para {
+  font-size: 8px;
+  font-family: "Roboto";
+  color: #00004d;
+}
+
+.dots-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.director-name {
+  font-size: 8px;
+}
+
+.top-heading {
+  color: #00004d;
+  font-size: 14px;
+  font-family: "Roboto";
+  font-weight: bold;
+}
+
+.icon-container {
+  border-radius: 45px;
+  border-color: #00004d;
+  border-style: solid;
+  width: 35px;
+  height: 35px;
+  text-align: center;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+
+.bg-container {
+  background-color: #e37383;
+  background-size: cover;
+  overflow: auto;
+  display: flex;
+  width: 100vw;
+
+  padding: 10px;
+}
+
+.top-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.icon-para {
+  font-size: 8px;
+  font-weight: bold;
+}
+
+.span-element {
+  font-weight: bold;
+  font-size: 8px;
+  color: #00004d;
+}
